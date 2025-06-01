@@ -179,9 +179,9 @@ Unvoid-Chess/
     move D3 D6     // Movimento vertical para até 3 casas, desde que o caminho esteja livre
     ```
   - **Designer (Cavalo):**  
-    Exemplo: Se o Designer estiver em B1, teste:
+    Exemplo: Se o Designer estiver em B2, teste:
     ```
-    move B1 C4     // Movimento em "L" (2 casas em uma direção, 1 em outra)
+    move B2 C4     // Movimento em "L" (2 casas em uma direção, 1 em outra)
     ```
 
 ---
